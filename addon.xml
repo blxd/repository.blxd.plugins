@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.blxd.plugins" name="blxd Add-on Repository" version="0.0.0" provider-name="blxd">
+<addon id="repository.blxd.plugins" name="blxd Add-on Repository" version="1.0.0" provider-name="blxd">
     <extension point="repository.blxd.plugins" name="blxd Add-on Repository">
         <info>https://raw.githubusercontent.com/blxd/xbmc.blxd.plugins/master/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/blxd/xbmc.blxd.plugins/master/addons.xml.md5</checksum>
