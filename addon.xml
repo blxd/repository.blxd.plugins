@@ -8,6 +8,7 @@
     <extension point="xbmc.addon.metadata">
         <summary>Install Add-ons from blxd Repository</summary>
         <description>Add-ons for XBMC</description>
+        <disclaimer>by blxd</disclaimer>
         <platform>all</platform>
     </extension>
 </addon>
